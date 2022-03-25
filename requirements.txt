@@ -6,3 +6,4 @@ keras==2.8.0
 DateTime==4.4
 streamlit==1.8.0
 tensorflow==2.8.0
+scikit-learn==0.24.2
